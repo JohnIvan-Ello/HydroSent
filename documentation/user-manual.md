@@ -26,7 +26,7 @@ HydroSent utilizes a dual-processor architecture to balance low-level motor cont
 | **M** | **DC/DC Step Down** | Precision voltage regulation for sensitive onboard electronics. |
 
 ### Visual Integration Map
-![HydroSent Model Breakdown](hardware-integration.jpg)
+![HydroSent Model Breakdown](hardware-integration.png)
 *Figure 1: Full assembly view showing component placement and the conveyor-belt mechanics.*
 
 ---
