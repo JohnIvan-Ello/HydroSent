@@ -62,7 +62,7 @@ HydroSent was developed through rigorous CAD modeling to ensure buoyancy and str
 
 * **3D Modeling:** Built using AutoCAD and SolidWorks to calculate optimal weight distribution. (`main-model.png`)
 * **PCB Design:** Custom-etched `pvc-main-board.png` for a clean, interference-free circuit layout.
-![Circuit Diagram](circuit-board.png)
+![Circuit Diagram](hardware/circuit-board.png)
 
 ---
 
