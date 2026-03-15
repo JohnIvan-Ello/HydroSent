@@ -52,4 +52,4 @@ HydroSent was subjected to a rigorous QA pipeline:
 
 ---
 **Developed by John Ivan Ello**
-*Technical Artist & Robotics Developer | PLM Student*
+*Technical Artist & Robotics Developer*
