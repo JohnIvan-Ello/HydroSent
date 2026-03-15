@@ -9,7 +9,7 @@ HydroSent is an advanced autonomous floating robot designed for real-time aquati
 HydroSent utilizes a dual-processor architecture to balance low-level motor control with high-level computer vision.
 
 ### System Components
-![Hardware Parts](hardware-parts.jpg)
+![Hardware Parts](hardware-parts.png)
 
 | ID | Component | Primary Function |
 | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ HydroSent utilizes a dual-processor architecture to balance low-level motor cont
 | **M** | **DC/DC Step Down** | Precision voltage regulation for sensitive onboard electronics. |
 
 ### Visual Integration Map
-![HydroSent Model Breakdown](image_701511.jpg)
+![HydroSent Model Breakdown](hardware-integration.jpg)
 *Figure 1: Full assembly view showing component placement and the conveyor-belt mechanics.*
 
 ---
@@ -42,7 +42,7 @@ The "intelligence" of HydroSent is built on a custom-trained model designed to d
 ### Core Firmware logic
 * **`arduino.ino`**: Manages the hardware interrupt service routines for sensors and motors.
 * **`main.py`**: Executes the high-level AI detection and Wi-Fi data streaming.
-![Firmware Structure](image_7018f8.png)
+![Firmware Structure](arduino.png)
 
 ---
 
